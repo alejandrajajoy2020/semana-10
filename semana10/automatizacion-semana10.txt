@@ -1,0 +1,9 @@
+Evento: nuevo reporte registrado en el sistema.
+
+Acción: enviar un mensaje a un canal o grupo de Telegram del equipo de coordinación.
+
+Mensaje propuesto: "Nuevo reporte recibido: ID #12345. Resumen: [breve descripción]. Revisar panel de reportes para más detalles."
+
+Información que NO debe enviarse por seguridad: nombres completos, números de documento, direcciones exactas, teléfonos, fotos con información sensible, tokens, claves o cualquier dato personal que pueda identificar a las personas.
+
+Nota: en n8n se puede configurar un webhook que reciba el nuevo reporte y un nodo de Telegram que formatee y envíe el mensaje. Para práctica, usar datos de ejemplo y no incluir información sensible.

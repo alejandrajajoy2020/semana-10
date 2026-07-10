@@ -1,0 +1,13 @@
+- ¿Qué 2 tareas del backlog harías primero?
+1) Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+2) Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+
+- ¿Por qué son las más importantes?
+Porque permiten que los reportes sean capturados (registro) y que el equipo se entere rápidamente (alerta), habilitando seguimiento inmediato y retroalimentación.
+
+- ¿Qué significa para ti que una tarea esté “terminada”?
+Definición simple de terminado (DoD):
+- Funciona: la funcionalidad está implementada y cumple el propósito descrito.
+- Fue probada: se realizaron pruebas manuales o automáticas que validan su comportamiento.
+- Quedó registrada en Git: el código y la documentación asociada están en el repositorio con commit claro.
+- Documentada: instrucciones mínimas para usar y probar la funcionalidad están incluidas.

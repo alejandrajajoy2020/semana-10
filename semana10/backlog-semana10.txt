@@ -1,0 +1,9 @@
+Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+
+Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+
+Como miembro del equipo quiero consultar reportes para hacer seguimiento.
+
+Como responsable quiero generar un resumen semanal de reportes para presentar avances.
+
+Prioridad: de arriba (más alta) a abajo (más baja).

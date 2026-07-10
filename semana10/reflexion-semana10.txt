@@ -1,0 +1,8 @@
+Las metodologías ágiles facilitan dividir el trabajo en entregas pequeñas y manejables, lo que permite iterar y aprender con rapidez.
+La automatización reduce tareas repetitivas y garantiza que las notificaciones y el seguimiento lleguen a tiempo.
+Canales como Telegram permiten comunicación inmediata y coordinada con la comunidad y con equipos de respuesta.
+Juntos, estos enfoques aumentan la transparencia y la trazabilidad de las acciones realizadas.
+Permiten responder más rápido a incidencias y mantener un registro claro de decisiones y evidencias.
+Además, favorecen la participación ciudadana al bajar barreras de coordinación y facilitar convocatorias.
+Con criterios de definición de terminado y pequeñas iteraciones se mejora la calidad mínima entregable.
+En resumen, agilidad, automatización y comunicación adecuada fortalecen la organización y el seguimiento comunitario.
